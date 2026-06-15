@@ -36,7 +36,7 @@ The final phase translated backend data modeling into frontend business intellig
 ## 📂 Repository Deliverables
 
 *   `KPI_Definitions.md` - Complete step 1 documentation of business metrics.
-*   `RFM_Segmentation_Analysis.ipynb` - Python notebook containing data cleaning, datetime engineering, and RFM quartile scoring logic.
+*   `Task3-step2.ipynb` - Python notebook containing data cleaning, datetime engineering, and RFM quartile scoring logic.
 *   `Superstore_Customer_Segments.csv` - The engineered segmentation data exported for the Power BI model.
 *   `Deep_Dive_Report.md` - Formulated strategic recommendations for corporate decision-makers.
 
